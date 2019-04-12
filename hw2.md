@@ -9,7 +9,7 @@ Blender2.8 beta
 ## 场景描述
 实现一个简单的行走循环动画
 
-![walk](https://gitee.com/Maomo/PAOGD_HW2/raw/master/HW2.gif)
+![walk](https://github.com/maozhimo/POAGD/blob/master/image%20sec/HW2.gif?raw=true)
 
 ## Tips
 导入模型,得到角色网格（根目录下的stickman.obj或其他模型，可自己构造，在report中说明）
